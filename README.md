@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Rashad, an <a href="https://linkedin.com/in/rashad-bealer">IT Professional</a></h1>
 
-<!--
-**RashadBealer/RashadBealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Post-Installation Configuration](https://github.com/RashadBealer/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/RashadBealer/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring  Active Directory within Azure VMs](https://github.com/RashadBealer/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RashadBealer/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com
+[instagram]: https://www.instagram.com
+[linkedin]: linkedin.com/in/rashad-bealer
