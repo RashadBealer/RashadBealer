@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com
 [instagram]: https://www.instagram.com
-[linkedin]: linkedin.com/in/rashad-bealer
+[linkedin]: https://www.linkedin.com/in/rashad-bealer/
